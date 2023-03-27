@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+  }
+  
+  .tag {
+    text-align: center;
+  }
+  
+  .slick-slide img {
+    margin: auto;
+    height: 200px;
+  }
+
+  .imgslider {
+    width: 90%;
+    margin: auto;
+    max-height: 400px;
+  }
