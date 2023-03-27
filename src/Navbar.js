@@ -20,7 +20,7 @@ const Navbar = () => (
         <a href="#login" className="p__opensans">Login / Register</a>
         <div />
 
-        <a href="/" className="p__opensans">Add Your Paradise</a>
+        <a href="/" className="p__opensans">Add Your Paradise </a>
     </div>
     </nav>
 );
